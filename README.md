@@ -1,0 +1,2 @@
+#Sample Website
+This is a sample website made using the *Learn Enough HTML to be Dangerous* HTML tutorial. To learn more about Learn Enough™, check out their [Website](https://learnenough.com) and check them out on Twitter.
